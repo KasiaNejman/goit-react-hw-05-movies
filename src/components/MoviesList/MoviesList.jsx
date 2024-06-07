@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'; // Import PropTypes
-
+// eslint-disable-next-line no-unused-vars
+import styles from './MoviesList.module.css';
 const MoviesList = ({ children }) => {
   return <ul>{children}</ul>;
 };
