@@ -28,6 +28,7 @@ li {
 }
 a {
   text-decoration: none;
+  color: black;
 }
 
 html,
@@ -46,6 +47,7 @@ body {
   font-size: 100%;
   line-height: 1.5;
   text-rendering: optimizeSpeed;
+  color: black;
 }
 
 /* Make images easier to work with */
